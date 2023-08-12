@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    margin:0;
+    padding: 0%;
+}
+.menu{
+   
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(70, 12, 12, 0.7)),url(64c79024-6270-437e-b910-6ee4be4294cb.JPG);
+}
+
+
+
+.menu >ul{
+    padding-top: 20px;
+    margin-left: 700px;
+    list-style: none;
+     display: flex;
+}
+.menu> ul> li{
+    font-size: 21px;
+    padding-top: 10px;
+    list-style: none;
+    position: relative;
+}
+.menu >ul >li> a{
+    padding-top: 20px;
+    padding: 20px;
+    text-decoration: none;
+    color:RED;
+    font-family: Arial, Helvetica;
+    font-weight: 0.4s ease-in-out;
+}   
+.menu >ul >li> a:HOVER{
+    color:orange;
+    } 
+    .ritik{
+        font-size: 30px;
+        padding-left: 40px;
+        color: orange;
+    }
+    .con{
+        padding-left: 40px;
+        font-size: 25px;
+        color:black;
+    }
+    /*
+    .menu img{
+        padding-bottom: 100px;
+        padding-left: 1000px;
+    }
+    */
+    .login{
+        margin-left: 30px;
+        padding: 20px;
+        font-size: 20px;
+        border-radius: 40px;
+        background-color:orange;
+        width: 130px;
+        height: 15px;
+        color: white;
+    }
+    .login a{
+
+        
+        list-style: none;
+        text-decoration: none;
+    
+    }
+    .login:hover{
+        background-color:#ef3038;
+        color: white;
+    }
+    .login a:hover{
+         color:white;
+    }
+    h4{
+        text-align: center;
+        font-size: 40px;
+        padding-top: 50px;
+    }
+     HR{
+         margin-left: 30%;
+         margin-right:30% ;
+     }
+
+/* this is product section*/
+.product{
+    width: 100%;
+    height: 500px;
+    
+}
+.spro{
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+.big{
+    margin-left: 100px;
+    margin-top: 40px;
+    box-shadow:   0px 1px 3px 0px  ;
+}
+.spro-1{
+    float: left;
+    width: 40%;
+    height: 500px;
+    
+}
+
+
+.small img{
+  margin-top: 7px;
+  margin-left: 25px;
+  float: left;
+ 
+  padding-left:5 px;
+}
+H1{
+    margin-top: 40PX;
+}
+h3{
+    font-size: 20px;
+    margin-top: 50px;
+}
+select{
+    font-size: 20px;
+}
+button{
+    color:aliceblue;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+    background-color: #088178;
+}
+button:hover{
+  background-color: orange;
+  color: black;
+}
+p{
+
+}
+
+
+
+footer{
+        
+    background-color:black;
+    width: 100%;
+    height: 300px;
+  }
+  .footer-1{
+    color:#fff;
+    padding-top: 20px;
+    width: 20%;
+    float: left;
+    padding-right: 30px;
+    font-size: 30px;
+    text-align: right;
+
+  }
+  .footer-1 ul li a{
+    color: gray;
+    font-size: 20px;
+  }
+  .footer-2{
+    color: black;
+    padding-top: 60px;
+    float: left;
+    width: 50%;
+    height: 250px;
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+   
+  }
+  h6{
+    font-size: 28px;
+    color: black;
+  }
+  .footer-2-red{
+    margin-left: 240px;
+    width: 200px;
+    height: 50px;
+    background-color: #ef3038;
+    border: 1px solid black;
+  }
+  .pro{
+    font-size: 15px;
+  }
+  h5{
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  .footer-3{
+    color: #fff;
+    float: left;
+    width: 20%;
+    padding-left: 40px;
+   font-size: 30px;
+  padding-top: 20px;
+  }
+  .footer-3 ul{
+    list-style: none;
+    
+  }
+  .footer-3 ul li a{
+    color: gray;
+    font-size: 20px;
+  }
+  .raushan {
+    color: red;
+  }
+  .Featured-Products{
+    margin-top: 30px;
+    width: 100%;
+    height: 300px;
+  
+  }
+  .Featured-Products-1{
+    float: left;
+    padding-left: 90px;
+  }
